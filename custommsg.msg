@@ -1,0 +1,12 @@
+float64[] red_x
+float64[] red_y
+float64[] red_z
+float64[] green_x
+float64[] green_y
+float64[] green_z
+float64[] blue_x
+float64[] blue_y
+float64[] blue_z
+float64[] yellow_x
+float64[] yellow_y
+float64[] yellow_z
